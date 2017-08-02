@@ -2,9 +2,7 @@
 
 Alcebiades Dal Col, Paola Valdivia, Fabiano Petronetto, Fabio Dias, Claudio T. Silva, and L. Gustavo Nonato
 
-
-Python implementation related to the paper, plus tools. Original paper presenting the approximation method: https://arxiv.org/abs/0912.3848 (Hammond et al), https://arxiv.org/pdf/1311.0897.pdf (Shuman et al).
-
+Python implementation related to the paper, plus tools. 
 
 ### code:
 
