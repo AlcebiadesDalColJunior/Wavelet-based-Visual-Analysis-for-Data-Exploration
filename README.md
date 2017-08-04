@@ -13,6 +13,7 @@ Python implementation related to the paper, plus tools.
 - Figure 7: manhattan_taxi.py
 
 Requirement: cvxopt
+
 It can be found in full instalation on python(x,y) or in https://anaconda.org/anaconda/cvxopt to anaconda.
 
 ### datasets:
