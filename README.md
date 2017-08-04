@@ -14,7 +14,7 @@ Python implementation related to the paper, plus tools.
 
 Requirement: cvxopt
 
-It can be found in full instalation on python(x,y) or in https://anaconda.org/anaconda/cvxopt to anaconda.
+It can be found in full installation on python(x,y) or in https://anaconda.org/anaconda/cvxopt to anaconda.
 
 ### datasets:
 - Minnesota road graph
