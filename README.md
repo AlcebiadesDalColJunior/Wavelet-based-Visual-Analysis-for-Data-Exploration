@@ -12,9 +12,7 @@ Python implementation related to the paper, plus tools.
 - Figure 6: time_varying_data.py
 - Figure 7: manhattan_taxi.py
 
-Requirement: cvxopt
-
-It can be found in http://cvxopt.org/
+Requirement: cvxopt (http://cvxopt.org/)
 
 ### datasets:
 - Minnesota road graph.
