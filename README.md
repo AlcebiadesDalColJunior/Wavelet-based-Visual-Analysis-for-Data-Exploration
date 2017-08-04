@@ -14,13 +14,13 @@ Python implementation related to the paper, plus tools.
 
 Requirement: cvxopt
 
-It can be found in full installation on python(x,y) or in https://anaconda.org/anaconda/cvxopt to anaconda.
+It can be found in http://cvxopt.org/
 
 ### datasets:
-- Minnesota road graph
-- Sensor network graph to the time-varying data
-- Taxi pick-ups in downtown Manhattan on 12 August 2013, 07:30 to 08:00
-- Taxi pick-ups in downtown Manhattan on 12 August 2013
+- Minnesota road graph.
+- Sensor network graph to the time-varying data.
+- Taxi pick-ups in downtown Manhattan on 12 August 2013, 07:30 to 08:00.
+- Taxi pick-ups in downtown Manhattan on 12 August 2013.
 
 ### Acknowledgements:
 
