@@ -1,4 +1,4 @@
-# Wavelet-Based Visual Analysis for Data Exploration
+# Wavelet-based Visual Analysis for Data Exploration
 
 Alcebiades Dal Col, Paola Valdivia, Fabiano Petronetto, Fabio Dias, Claudio T. Silva, and L. Gustavo Nonato
 
