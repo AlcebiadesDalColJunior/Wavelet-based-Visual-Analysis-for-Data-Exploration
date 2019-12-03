@@ -4,7 +4,7 @@ Alcebiades Dal Col, Paola Valdivia, Fabiano Petronetto, Fabio Dias, Claudio T. S
 
 Python implementation related to the paper, plus tools. 
 
-### code:
+### Code:
 - Figure 1: zero_crossings.py
 - Figure 2: signals_on_path_graph.py
 - Figure 3: comet_experiment.py
@@ -14,7 +14,7 @@ Python implementation related to the paper, plus tools.
 
 Requirement: cvxopt (http://cvxopt.org/)
 
-### datasets:
+### Datasets:
 - Minnesota road graph.
 - Sensor network graph to the time-varying data.
 - Taxi pick-ups in downtown Manhattan on 12 August 2013, 07:30 to 08:00.
